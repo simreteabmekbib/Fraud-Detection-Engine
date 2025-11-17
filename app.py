@@ -12,7 +12,7 @@ st.set_page_config(page_title="Fraud Detection System", layout="centered")
 st.title("🕵️ Financial Transaction Fraud Detector")
 st.markdown("""
 **Model**: Neural Network (MLP) — Highest ROC AUC  
-**Dataset**: Synthetic Financial Transactions  
+**Dataset**: Synthetic Financial Transactions (https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset) 
 **Threshold**: 2% probability → flagged as fraud  
 **Explainability**: SHAP (KernelExplainer)
 """)
