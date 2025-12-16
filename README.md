@@ -4,7 +4,7 @@
 This project implements a **Fraud Detection Engine** using machine learning techniques to identify potentially fraudulent financial transactions.
 The system combines **supervised learning**, **anomaly detection**, and **explainable AI (SHAP)** to deliver accurate predictions with transparent explanations.
 
-Developed as part of an **MSc FinTech coursework**, the project includes a fully deployed **Streamlit web application**.
+Developed as part of an **Selected Topics coursework**, the project includes a fully deployed **Streamlit web application**.
 
 ---
 
@@ -83,7 +83,7 @@ All models are evaluated using precision, recall, F1-score, and confusion matric
 ---
 
 ## 📄 Academic Context
-MSc FinTech – Selected Topics in FinTech  
+Selected Topics in FinTech  
 **Project 1: Fraud Detection Engine**
 
 ---
